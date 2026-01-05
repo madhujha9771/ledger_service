@@ -1,0 +1,16 @@
+# Go build files
+/bin/
+/pkg/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
