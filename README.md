@@ -9,16 +9,6 @@ consistency, and scalability rather than UI.
 
 ---
 
-## 📌 Why This Project
-
-This project is built as a **learning + portfolio project** to:
-- Learn Go in a **real production context**
-- Understand how **financial systems** are built
-- Practice **clean architecture**
-- Build something that **backend interviewers respect**
-
----
-
 ## 🧠 Core Concepts Implemented
 
 - Double-entry accounting (Debit & Credit)
